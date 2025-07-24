@@ -80,3 +80,14 @@ padding: 1em;
 background-color: #003366;
 color: #fff;
 } 
+#list-img{
+    gap: 80px;
+}
+section{
+    background-color: rgb(235, 235, 235);
+    padding: 20px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
+}
+img{
+    max-width: 200px;
+}
