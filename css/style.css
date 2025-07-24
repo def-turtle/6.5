@@ -82,6 +82,7 @@ color: #fff;
 } 
 #list-img{
     gap: 80px;
+    display: flex;
 }
 section{
     background-color: rgb(235, 235, 235);
@@ -90,4 +91,5 @@ section{
 }
 img{
     max-width: 200px;
+    display: flex;
 }
