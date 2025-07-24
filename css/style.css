@@ -93,3 +93,6 @@ img{
     max-width: 200px;
     display: flex;
 }
+.jakir:hover{
+    color: rgb(170, 170, 170);
+}
